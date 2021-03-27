@@ -7,9 +7,9 @@
 	int square(int num)
   {
     return(num*num);
-    }
+  }
     //Write the function for calculating square of a given number
-	int main()
+	    int main()
 	{
 	    int num;
 	    int n;
