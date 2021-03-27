@@ -4,9 +4,13 @@
 	output: 9*/
 	
 	#include<stdio.h>
+  int sum(int ,int);
 	int sum(int a,int b)
 	{
-	    //Complete the missing code
+    int c=a+b;
+   
+   
+    return c; //Complete the missing code
 	}
 	int main()
 	{
