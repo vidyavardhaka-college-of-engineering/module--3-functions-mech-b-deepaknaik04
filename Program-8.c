@@ -4,12 +4,14 @@
 	The square of 20 is:400*/
 	
 	#include<stdio.h>
+  int square(int );
 	int square(int num)
   {
-    return(num*num);
+    int n;
+     n=num*num ;
+     return n;//Write the function for calculating square of a given number
   }
-    //Write the function for calculating square of a given number
-	    int main()
+	int main()
 	{
 	    int num;
 	    int n;

@@ -2,7 +2,8 @@
 	input: 10 7
 	output: 3*/
 	#include<stdio.h>
-	int sub(int a, int b)//write the function prototype
+  int sub(int ,int);
+	int sub(int a,int b)//write the function prototype
 	{
 	     int c=a-b;
 	     return c;
